@@ -11,15 +11,15 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Usman Rashid Khan',
-  subtitle: 'Web Developer',
+  subtitle: 'Data Scientist Enthusiast and Web Developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne:'Hello! I m Usman Rashid Khan, a self taught web developer based in India.I m a fourth year student at Jawhar lal Nehru Technical University  Hyderabad studying petroleum engineering. I Love developing and designing applications for the web, from simple landing pages to progressive web applications.',
-  paragraphTwo: 'I strive to create web applications that not only functions efficiently under the hood, but also provides intuitive, pixel-perfect user experiences. I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code.',
+  paragraphOne:'Hello! I m Usman Rashid Khan, a self taught web developer and a Data Science Enthusiast based in India. I Love developing and designing applications for the web, from simple landing pages to progressive web applications.',
+  paragraphTwo: 'I love to play with Data and love to make Machine Learning Modals. I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code.',
   paragraphThree: 'I consider work an ongoing education, and I m always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn. At the end of the day, my primary goal is to create something beautiful with people that bring out the best in me.',
   resume: 'https://drive.google.com/file/d/1zdYxe-iRX1hFLm1GU1AhZM6rItCVuyZU/view?usp=sharing', // if no resume, the button will not show up
 };
@@ -65,10 +65,10 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'covid-trcker.png',
-    title: 'Corona Trcker',
-    info: 'Currently Working on it ....',
-    info2: '',
-    url: '',
+    title: 'Data Science Projects',
+    info: 'I Have done the several data science and Machine learning Projects you can find them on my github repo.',
+    info2: 'Classification Modals ,Regression Modals , Clustering Modals and Associate Rule Modals',
+    url: 'https://github.com/KhanUsman786?tab=repositories',
     repo: '', // if no repo, the button will not show up
   },
   {
